@@ -1,6 +1,6 @@
 # Third-party notices
 
-CC BY 3.0 applies to this project's original service code. It does not replace the
+CC BY 4.0 applies to this project's original code. It does not replace the
 licenses of the following dependencies. Their versions are fixed in `go.mod` and
 verified by `go.sum`.
 

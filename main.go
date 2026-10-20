@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: CC-BY-3.0
+// SPDX-License-Identifier: CC-BY-4.0
 // Copyright (c) 2026 lilongsky
 
 package main
