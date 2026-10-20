@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "epo": {
+      "command": "./launch.sh",
+      "env": {
+        "EPO_CLIENT_KEY": "${EPO_CLIENT_KEY}",
+        "EPO_CLIENT_SECRET": "${EPO_CLIENT_SECRET}"
+      }
+    }
+  }
+}
